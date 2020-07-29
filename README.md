@@ -4,6 +4,10 @@
 - [大数据](https://github.com/HeCCXX/MyBlog/projects/2)
 
   - Spark
+  
+  - 分布式
+  
+  - Zookeeper
 
 - [Java](https://github.com/HeCCXX/MyBlog/projects/1)
 
